@@ -63,7 +63,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/skillswap-pro.git
+   git clone https://github.com/ahlami24/skillswapPRO.git
    ```
 2. **Setup Database:**
    - Open **phpMyAdmin**.
@@ -80,6 +80,8 @@ To run this project locally, follow these steps:
 
 This project was a collaborative effort by:
 
-- **Your Name** - Lead Developer / Database Architect
-- **Friend Name 1** - Frontend Specialist
-- **Friend Name 2** - UI/UX & Documentation
+- **Abdulaziz Abdurahman**
+- **Muslim Raya**
+- **Nigus Hagos**
+- **Kiya gizaw**
+- **Helen Kokob**
